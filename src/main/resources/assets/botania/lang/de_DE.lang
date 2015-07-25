@@ -413,20 +413,22 @@ botania.category.misc=Verschiedenes
 # - BASIC
 # -- LEXICA BOTANIA
 botania.entry.lexicon=Lexica Botania
-botania.page.lexicon0=The &1Lexica Botania&0 is the repository of all knowledge for all botany related matters. But you probably knew that already.<br>All information is stored here, as expected. For convenience, if a block happens to have an entry, it can be shift-right clicked with the &1Lexica Botania&0 to open that entry.
-botania.page.lexicon1=Crafting the &1Lexica Botania&0.
+botania.page.lexicon0=Das &1Lexica Botania&0 ist eine Ansammlung alles Wissens der Botanik. Aber das wusstest du bestimmt schon.<br>Alle Informationen werden, wie du es erwartest, hier aufbewahrt, falls ein Block einen Eintrag hat, kann dieser mit Shift+Rechtsklick mit dem &1Lexica Botania&0 geöffnet werden.
+botania.page.lexicon1=Das Crafting Rezept des &1Lexicas Botania&0.
 
 # -- MYSTICAL FLOWERS
 botania.entry.flowers=Mystische Blumen
-botania.page.flowers0=Around the world, you may stumble upon a large variety of Mystical Flora. Spotting these doesn't take much work as the flowers themselves emit a fair amount of shine.<br>They come in a total of &416 &0different colors.<br>It's also possible to grow these flowers using &1Floral Fertlizer&0 (read on).
-botania.page.flowers1=Flowers as far as the eye can see...
-botania.page.flowers2=These flowers can be plucked for &1Mystical Petals&0, that can be used for making magical instruments and plants alike.<br>These petals can also be crushed into &1Floral Powder&0, by the use of a &1Pestle and Mortar&0, which functions much alike any mundane piece of dye.
-botania.page.flowers3=Plucking Petals off Flowers.
-botania.page.flowers4=Crafting the &1Pestle and Mortar&0.
-botania.page.flowers5=Grinding Petals into Powder.
+botania.page.flowers0=Während du in der Welt unterwegs bist stößt du auf eine hohe Anzahl verschiedener Mystischer Blumen. Sie zu entdecken kostet nur wenig Müh, da sie einen nicht verfehlbaren Schimmer aussenden.<br>Insgesamt gibt es &416 &0verschiedene Blumenarten.<br>Es ist auch möglich selbst diese Blumen wachsen zu lassen mittels &1Blumendünger&0.
+botania.page.flowers1=Blumen so weit das Auge reicht...
+botania.page.flowers2=Zupft man &1Mystischen Blütenblätter&0, der Blumen, kann man diese für das Herstellen magischer Instrumente und Pflanzen verwenden<br>Die Blätter lassen sich mittels &1Stößel und Mörser&0, zu &1Blumenpulver&0 mörsern, welches wie herkömmlicher Farbstoff verwendet werden kann.
+botania.page.flowers3=Das Zupfen der Blütenblätter
+botania.page.flowers4=Das Craftingrezept von &1Stößel und Mörser&0.
+botania.page.flowers5=Das Mörsern von Blütenblättern zu Pulver
 botania.page.flowers6=By mixing the &1Floral Powder&0 with some &1Bone Meal&0, it's possible to create a different type of fertilizer. The &1Floral Fertlizer&0 will grow a small amount of &1Mystical Flowers&0 in the nearby vacinity, if you ever run low on them.
+botania.page.flowers6=Indem man &1Blumenpulver&0 mit etwas &1Knochenmehl&0 mischt, erhält man eine andere Art von Dünger. Der &1Blumendünger&0 lässt eine geringe Anzahl von &1Mystischen Blumen&0 in näherer Umgebung wachsen, falls dir mal die Blumen ausgehen sollten.
 botania.page.flowers7=Making fertilizer (any powder colors work)
-botania.page.flowers8=Using typical flower substances also works
+#botania.page.flowers8=Using typical flower substances also works
+botania.page.flowers8=Das Benutzen von klassischen Blumensubstanzen ist auch möglich
 
 # -- PETAL APOTHECARY
 botania.entry.apothecary=Blütenblatttiegel
